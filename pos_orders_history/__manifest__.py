@@ -12,7 +12,7 @@
     "version": "11.0.1.0.1",
     "application": False,
 
-    "author": "IT-Projects LLC, Dinar Gabbasov",
+    "author": "IT-Projects LLC, Dinar Gabbasov, saas tools",
     "support": "apps@it-projects.info",
     "website": "https://twitter.com/gabbasov_dinar",
     "license": "LGPL-3",
@@ -20,6 +20,7 @@
     "currency": "EUR",
 
     "depends": [
+        "point_of_sale",
         "base_automation",
         "pos_longpolling",
     ],
